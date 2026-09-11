@@ -1,0 +1,48 @@
+{
+  "updatedAt": "2026-09-11T04:38:41.163Z",
+  "entries": [
+    {
+      "id": "2026-09-11-daily",
+      "type": "daily",
+      "date": "2026-09-11",
+      "title": "AI Developer Radar｜Daily｜2026-09-11",
+      "path": "2026/09/2026-09-11-daily.md",
+      "summary": "扫描到 100 个候选项目，AI 相关候选 97 个。 今日 53 个项目达到 24h stars >= 50。 当前最强信号集中在 Coding Agent / SWE Agent。",
+      "topProjects": [
+        "vastsa/PI-Desktop",
+        "freestylefly/awesome-gpt-image-2",
+        "ayghri/i-have-adhd",
+        "Graphify-Labs/graphify",
+        "diegosouzapw/OmniRoute"
+      ],
+      "categoryHighlights": [
+        "Coding Agent / SWE Agent",
+        "AI Workflow Automation",
+        "MCP / Tool Calling",
+        "AI Agent Framework"
+      ]
+    },
+    {
+      "id": "2026-09-10-daily",
+      "type": "daily",
+      "date": "2026-09-10",
+      "title": "AI Developer Radar｜Daily｜2026-09-10",
+      "path": "2026/09/2026-09-10-daily.md",
+      "summary": "扫描到 100 个候选项目，AI 相关候选 97 个。 今日新增 stars >= 50 的 AI 项目不足 12 个，已补充 Early Signals。 当前最强信号集中在 AI Workflow Automation。",
+      "topProjects": [
+        "langgenius/dify",
+        "langchain-ai/langchain",
+        "run-llama/llama_index",
+        "crewAIInc/crewAI",
+        "langchain-ai/langgraph"
+      ],
+      "categoryHighlights": [
+        "AI Workflow Automation",
+        "AI Agent Framework",
+        "RAG / Knowledge Base",
+        "Vector Database / Embedding",
+        "MCP / Tool Calling"
+      ]
+    }
+  ]
+}
